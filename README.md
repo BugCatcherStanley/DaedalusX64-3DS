@@ -1,3 +1,9 @@
+Stanley's todos;
+- Add pretty pictures for romhacks
+- Add romhacks save types
+- Learn about graphics and rendering
+- Change graphics and rendering to better suit the 3ds 804HMz cpu
+
 # DaedalusX64
  
 DaedalusX64 is a Nintendo 64 emulator for 3DS, Linux, PSP, PS Vita among other platforms. The PSP port is noteworthy for being the fastest N64 emulator ever on the platform, achieving close to or even full speed in many titles.
